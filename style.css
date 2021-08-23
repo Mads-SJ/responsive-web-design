@@ -106,7 +106,7 @@ section {
     letter-spacing: 6px;
     font-size: 2rem;
     display: block;
-    padding: 0.5rem 1rem;
+    padding: 0.4rem 1rem;
 }
 
 .nav-btn {
@@ -195,8 +195,12 @@ UTILITY FOR NAVBAR
     }
 
     .nav-links a {
-        padding: 1.9rem 3rem;
+        padding: 1.907rem 3rem;
         margin: 0 0.5rem;
+    }
+
+    .nav-links a:hover {
+        background-color: rgb(134, 132, 132, 0.3);
     }
 }
 
